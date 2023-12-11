@@ -31,7 +31,7 @@ pip install -r app/requirements.txt
 Run the Streamlit app:
 bash
 Copy code
-streamlit run app/app.py
+streamlit run project2_app1.py
 Access the app in your browser at http://localhost:8501.
 
 Streamlit App
