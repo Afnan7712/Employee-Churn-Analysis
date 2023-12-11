@@ -1,4 +1,4 @@
-##Employee Churn Analysis Project
+Employee Churn Analysis Project
 
 Overview
 
@@ -19,7 +19,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/employee-churn-analysis.git
+git clone https://github.com/Afnan7712/employee-churn-analysis.git
 Navigate to the project directory:
 bash
 Copy code
